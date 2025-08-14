@@ -1,0 +1,25 @@
+{
+  "name": "day-sum-solution",
+  "version": "1.0.0",
+  
+  "description": "",
+  "homepage": "https://github.com/adgamerx/day-solution#readme",
+  "bugs": {
+    "url": "https://github.com/adgamerx/day-solution/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adgamerx/day-solution.git"
+  },
+  "license": "ISC",
+  "author": "adx",
+  "type": "commonjs",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node solution.js"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
